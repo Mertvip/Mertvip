@@ -1,7 +1,11 @@
 # 💫 About Me
-🔐 Offensive Security Enthusiast with a strong focus on Web and Mobile Application Security.  
-🕵️ Active Bug Bounty Hunter, passionate about discovering vulnerabilities and learning from real-world scenarios.  
-🎯 Always improving to become a better pentester and make the digital world safer.
+
+Hey there! I'm Mert, a 19-year-old with a deep passion for cybersecurity.  
+🔐 Ever since I was a teenager, I've been fascinated by how systems work — and how they can break.  
+🕵️ I actively hunt bugs and explore security flaws in real-world web and mobile applications.  
+🚀 I'm always pushing myself to learn more, improve my skills, and contribute to a safer digital world.  
+Let’s connect, share knowledge, and grow together in the offensive security space!
+
 
 ---
 
