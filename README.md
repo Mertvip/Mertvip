@@ -1,10 +1,10 @@
 # 💫 About Me
 
-Hey there! I'm Mert, a 20-year-old with a deep passion for cybersecurity.  
+Hey there I'm Mert, a 20-year-old with a deep passion for cybersecurity.  
 🔐 Ever since I was a kid, I've been curious about how complex systems operate — and what makes them vulnerable.  
 🕵️ I actively hunt bugs and explore security flaws in real-world web and mobile applications.  
 🚀 I'm always pushing myself to learn more, improve my skills, and contribute to a safer digital world.  
-Let’s connect, share knowledge, and grow together in the offensive security space!
+Let’s connect, share knowledge, and grow together in the offensive security space
 
 
 ---
