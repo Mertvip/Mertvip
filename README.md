@@ -1,9 +1,17 @@
 # 💫 About Me
 
 Hello, I’m Mert. I’m 20 years old and I have a strong interest in cybersecurity.
-🔐 Since I was a kid, I’ve been curious about how systems work and where their weaknesses are.
-🕵️ I enjoy learning about security issues in real-world web applications.
-🚀 I’m always trying to learn more, improve my skills, and help make the digital world safer.
+
+## 🔐 Curiosity
+Since I was a kid, I’ve been curious about how systems work and where their weaknesses are.
+
+## 🕵️ Learning
+I enjoy learning about security issues in real-world web applications.
+
+## 🚀 Growth
+I’m always trying to learn more, improve my skills, and help make the digital world safer.
+
+## 🤝 Community
 Let’s connect, share knowledge, and grow together in the offensive security field.
 
 
