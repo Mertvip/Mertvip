@@ -45,5 +45,5 @@ Let’s connect, share knowledge, and grow together in the offensive security fi
 
 ## 🚀 Currently Learning
 - Advanced Web Application Pentesting  
-- Mobile Application Security  
-- Burp Suite Extensions (Python-based)
+- Application Security
+- Offensive Security
